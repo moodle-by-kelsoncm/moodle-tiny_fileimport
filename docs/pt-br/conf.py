@@ -21,8 +21,8 @@ html_theme_path = [moodle_docs_theme.get_html_theme_path()]
 html_theme_options = {
     "project_name": "moodle-tiny_fileimport",
     "tagline": "Plugin TinyMCE para importação de arquivos via drag & drop e modal",
-    "github_url": "https://github.com/moodle-by-kelsoncm/tiny_fileimport",
-    "github_repo": "moodle-by-kelsoncm/tiny_fileimport",
+    "github_url": "https://github.com/moodle-by-kelsoncm/moodle-tiny_fileimport",
+    "github_repo": "moodle-by-kelsoncm/moodle-tiny_fileimport",
     "github_version": "main",
     "doc_path": "docs/pt-br/",
     "show_edit_on_github": True,
