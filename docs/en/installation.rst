@@ -20,6 +20,6 @@ Installation Procedure
 
    .. code-block:: bash
 
-      git clone https://github.com/moodle-by-kelsoncm/tiny_fileimport.git fileimport
+      git clone https://github.com/moodle-by-kelsoncm/moodle-tiny_fileimport.git fileimport
 
 3. Access **Site administration > Notifications** in Moodle to complete the installation.
